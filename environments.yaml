@@ -1,0 +1,9 @@
+envs:
+- cluster_name: demo-stg
+  compute:
+    zone: us-central1-f
+  creation_time: "2020-05-19T09:55:15Z"
+  last_update_time: "2020-05-19T09:55:15Z"
+  name: stg
+  namespace: app-cicd-demo-stg
+  project: yuwen-cicd-demo2
